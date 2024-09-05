@@ -1,0 +1,9 @@
+*.pgpass
+
+*.csv
+
+gold/*.csv
+
+raw/*.csv
+
+transformed/*.csv

@@ -1,0 +1,20 @@
+#Open the cron editor and type the below command
+
+crontab -e
+
+# Add the following line to schedule the script to schedule the etl script to run at 12AM daily
+
+
+0 0 * * * /path/to/etl_script.sh
+
+
+#The path to my etl_script is as seen below 
+
+path - /mnt/c/Users/Administrator/Documents/Projects/Linux_git_assignment/etl_script.sh
+
+#so my scheduler will be 
+
+0 0 * * * /mnt/c/Users/Administrator/Documents/Projects/Linux_git_assignment/etl_script.sh
+
+
+
