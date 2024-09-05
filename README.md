@@ -2,7 +2,7 @@
 
 # The Architectural Diagram for the ETL process is as shown below
 
-   ![alt text](data-flow-image.png)
+   ![alt text](data_flow_image.png)
 
 This repository provides the complete solution for the ETL (Extract, Transform, Load) process and SQL tasks assigned to a data engineer at CoreDataEngineers. It includes detailed Bash scripts to handle the ETL process and SQL queries for analyzing the dataset.
 
